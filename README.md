@@ -14,3 +14,5 @@ This template is for personal use.
 2. Compilation Steps. pdfLaTeX >> BibTeX >> pdfLaTeX >> pdfLaTeX
 
 3. MikTeX and TeXMaker latest versions are used during the preparation of this template.
+
+4. Figure folder is used to store all images/graphs related to research.
