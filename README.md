@@ -1,3 +1,4 @@
+# A Template for Synopsis at National Institute of Technology Tiruchirappalli
 # NIT-Trichy-MS(By Research)/PhD-Synopsis-LaTeX-Template
 # About Document
 This repository contains LaTeX template for NIT Trichy's M.S. (By Research)/PhD Synopsis. 
